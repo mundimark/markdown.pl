@@ -1,4 +1,10 @@
-﻿SmartyPants
+> NOTE: This is an archived and unzipped version of the `SmartyPants_1.5.1.zip`.
+>
+> Changes:
+> - Changed `SmartyPants Readme.txt` to `README.md`; otherwise everything unchanged.
+  
+
+SmartyPants
 ===========
 
 by John Gruber   
