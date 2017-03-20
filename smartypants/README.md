@@ -1,7 +1,7 @@
 > NOTE: This is an archived and unzipped version of the `SmartyPants_1.5.1.zip`.
 >
 > Changes:
-> - Changed `SmartyPants Readme.txt` filename to `README.md`.
+> - Changed the `SmartyPants Readme.txt` filename to `README.md`.
   
 
 SmartyPants
