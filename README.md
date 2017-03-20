@@ -1,4 +1,5 @@
 > NOTE: This is an archived and unzipped version of the `Markdown_1.0.1.zip`.
+>  Changed `Markdown.Readme.text` to `README.md` and `License.txt` to `LICENSE.md`; otherwise everything unchanged.
   
 
 Markdown
